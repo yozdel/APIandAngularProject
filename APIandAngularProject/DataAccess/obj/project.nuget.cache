@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aGufcNxw1g9x9/c8RsHOkstRKGHYWNhCrTmnAlwFgTt1hdlX4uywhqh0Qy+t4VOi5MLcsWPikhMBbFzaqMvZkA==",
+  "dgSpecHash": "nz/qEi99mof3oRTJ3KCV/XcdVC2Adej8wd/0QFLCmOHM/AVP2kQpq3Uya4Twj9mmlG0YiBKBs+Ov6OpHbW29/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yasin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\yasin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

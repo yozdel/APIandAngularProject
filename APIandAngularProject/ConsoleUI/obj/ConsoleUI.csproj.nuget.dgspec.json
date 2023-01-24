@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Business\\Business.csproj": {
+    "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\yasin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -28,6 +28,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -36,11 +37,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\Entities.csproj"
+              "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -74,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\yasin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -98,6 +99,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -106,14 +108,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Business\\Business.csproj"
+              "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\Entities.csproj"
+              "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -147,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\DataAccess\\DataAccess.csproj",
-        "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\yasin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -171,6 +173,77 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\yasin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -179,8 +252,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\Entities.csproj"
+              "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -220,14 +293,14 @@
         }
       }
     },
-    "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\yasin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasin\\source\\repos\\APIandAngularProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -244,6 +317,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -251,7 +325,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\yasin\\source\\repos\\apiveAngular\\APIandAngularProject\\Core\\Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
