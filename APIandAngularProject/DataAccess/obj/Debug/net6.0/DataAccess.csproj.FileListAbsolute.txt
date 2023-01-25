@@ -18,3 +18,15 @@ C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\obj\Deb
 C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
 C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
 C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\yasin\source\repos\apiveAngular\APIandAngularProject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

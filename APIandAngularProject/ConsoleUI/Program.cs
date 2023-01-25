@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using Business.Abstract;
 using Business.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
@@ -10,11 +11,22 @@ ProductTest();
 
 static void ProductTest()
 {
+    IProductService productService = new ProductManager(new EfProductDal());
+    var resultt = productService.GetAll();
     ProductManager ProductManager = new ProductManager(new EfProductDal());
-    foreach (var product in ProductManager.GetProductDetails())
+    var result = ProductManager.GetProductDetails();
+    if (result.Success)
     {
-        Console.WriteLine(product.ProductName + "/"+ product.CategoryName);
+        foreach (var product in ProductManager.GetProductDetails().Data)
+        {
+            Console.WriteLine(product.ProductName + "/" + product.CategoryName);
+        }
     }
+    else
+    {
+        Console.WriteLine(result.Message);
+    }
+    
 }
 
 static void CategoryTest()
