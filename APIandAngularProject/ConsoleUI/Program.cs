@@ -11,29 +11,29 @@ ProductTest();
 
 static void ProductTest()
 {
-    IProductService productService = new ProductManager(new EfProductDal());
-    var resultt = productService.GetAll();
-    ProductManager ProductManager = new ProductManager(new EfProductDal());
-    var result = ProductManager.GetProductDetails();
-    if (result.Success)
-    {
-        foreach (var product in ProductManager.GetProductDetails().Data)
-        {
-            Console.WriteLine(product.ProductName + "/" + product.CategoryName);
-        }
-    }
-    else
-    {
-        Console.WriteLine(result.Message);
-    }
+    //IProductService productService = new ProductManager(new EfProductDal());
+    //var resultt = productService.GetAll();
+    //ProductManager ProductManager = new ProductManager(new EfProductDal());
+    //var result = ProductManager.GetProductDetails();
+    //if (result.Success)
+    //{
+    //    foreach (var product in ProductManager.GetProductDetails().Data)
+    //    {
+    //        Console.WriteLine(product.ProductName + "/" + product.CategoryName);
+    //    }
+    //}
+    //else
+    //{
+    //    Console.WriteLine(result.Message);
+    //}
     
 }
 
 static void CategoryTest()
 {
-    CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
-    foreach (var category in categoryManager.GetAll())
-    {
-        Console.WriteLine(category.CategoryName);
-    }
+    //CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
+    //foreach (var category in categoryManager.GetAll())
+    //{
+    //    Console.WriteLine(category.CategoryName);
+    //}
 }
